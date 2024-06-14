@@ -12,10 +12,9 @@ Este é um projeto de portfólio desenvolvido com Flutter Web. O objetivo deste 
 
 O portfólio inclui as seguintes seções:
 
-- **Introdução**: Uma visão geral sobre mim e minhas habilidades.
+- **Home**: Uma visão geral sobre mim e minhas habilidades.
 - **Projetos**: Uma lista dos meus projetos recentes com detalhes sobre cada um.
 - **Certificações**: Minhas certificações profissionais.
-- **Sobre Mim**: Informações adicionais sobre minha trajetória profissional e acadêmica.
 
 ## Estrutura do Projeto
 
@@ -61,24 +60,9 @@ Para executar o projeto, utilize o comando:
 flutter run -d chrome
 ```
 
-## Estrutura do Código
-
-### MainView
-
-A `MainView` é o ponto central de navegação do aplicativo. Ela utiliza um `PageView` para exibir diferentes páginas, como Introdução, Projetos e Certificações.
-
-### Outros Componentes
-
-#### NavigationButtonList
-
-Exibe uma lista de botões de navegação com animação.
-
 ### Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
 
 ### Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
 
